@@ -1,0 +1,5 @@
+C:\Users\jacob\Documents\Y2S2\csharp\asn2\form1\form1\obj\Debug\form1.csproj.AssemblyReference.cache
+C:\Users\jacob\Documents\Y2S2\csharp\asn2\form1\form1\obj\Debug\code_editor_2.Form1.resources
+C:\Users\jacob\Documents\Y2S2\csharp\asn2\form1\form1\obj\Debug\form1.Properties.Resources.resources
+C:\Users\jacob\Documents\Y2S2\csharp\asn2\form1\form1\obj\Debug\form1.csproj.GenerateResource.cache
+C:\Users\jacob\Documents\Y2S2\csharp\asn2\form1\form1\obj\Debug\form1.csproj.CoreCompileInputs.cache
