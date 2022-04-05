@@ -27,7 +27,7 @@ namespace code_editor_2
         // 2 forward slash stops the program from reading the current line
 
         // this clears the richtextbox1
-        private void newToolStripButton_Click(object sender, EventArgs e)
+        private void newToolStripButton_Click_1(object sender, EventArgs e)
         {
             richTextBox1.Clear();
         }
@@ -92,7 +92,7 @@ namespace code_editor_2
         }
 
         // this highlights all text
-        private void selectAllButton_Click(object sender, EventArgs e)
+        private void selectAllButton_Click_1(object sender, EventArgs e)
         {
             richTextBox1.SelectAll();
         }
@@ -111,6 +111,11 @@ namespace code_editor_2
 
         // this calls the save button
         private void saveAsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            saveToolStripButton.PerformClick();
+        }
+
+        private void saveToolStripMenuItem_Click(object sender, EventArgs e)
         {
             saveToolStripButton.PerformClick();
         }
@@ -156,5 +161,6 @@ namespace code_editor_2
         {
             selectAllButton.PerformClick();
         }
+
     }
 }
