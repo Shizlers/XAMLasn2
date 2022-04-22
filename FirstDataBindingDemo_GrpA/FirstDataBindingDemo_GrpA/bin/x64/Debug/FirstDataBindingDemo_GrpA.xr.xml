@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Roots >
   <Roots.PropertyPathNames>
-    <RootPropertyPathName Name="GameName" />
+    <RootPropertyPathName Name="Content" />
+    <RootPropertyPathName Name="DocName" />
   </Roots.PropertyPathNames>
   <Roots.RootTypes>
     <RootType FullName="Windows.UI.Xaml.Application" />

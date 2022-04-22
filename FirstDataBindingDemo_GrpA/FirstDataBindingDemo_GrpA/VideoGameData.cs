@@ -18,30 +18,35 @@ namespace LocalNote
         {
             this.games.Add(new VideoGame()
             {
-                GameName = "Quake II"
+                DocName = "Doc 0",
+		Content = "This is content for doc 0"
                 
             });
 
             games.Add(new VideoGame()
             {
-                GameName = "Doc 1"
+                DocName = "Doc 1",
+		Content = "This is content for doc 1"
             });
 
             this.games.Add(new VideoGame()
             {
-                GameName = "Doc 2"
+                DocName = "Doc 2",
+		Content = "This is content for doc 2"
             });
 
             this.games.Add(new VideoGame()
             {
-                GameName = "Doc3"
+                DocName = "Doc 3",
+		Content = "This is content for doc 3"
             });
         }
         public void addGame()
         {
             this.games.Add(new VideoGame()
             {
-                GameName = "Doc4"
+                DocName = "Doc 4",
+		Content = "This is content for doc 4"
                 
             });
         }

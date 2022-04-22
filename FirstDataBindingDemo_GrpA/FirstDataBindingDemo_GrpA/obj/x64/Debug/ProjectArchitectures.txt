@@ -1,1 +1,1 @@
-C:\Users\jacob\Documents\Y2S2\csharp\temp\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\LocalNote.csproj;x64
+C:\Users\jacob\Documents\Y2S2\csharp\asn2\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\LocalNote.csproj;x64

@@ -8158,11 +8158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jacob\\Documents\\Y2S2\\csharp\\temp\\FirstDataBindingDemo_GrpA\\FirstDataBindingDemo_GrpA\\LocalNote.csproj",
+      "projectUniqueName": "C:\\Users\\jacob\\Documents\\Y2S2\\csharp\\asn2\\FirstDataBindingDemo_GrpA\\FirstDataBindingDemo_GrpA\\LocalNote.csproj",
       "projectName": "LocalNote",
-      "projectPath": "C:\\Users\\jacob\\Documents\\Y2S2\\csharp\\temp\\FirstDataBindingDemo_GrpA\\FirstDataBindingDemo_GrpA\\LocalNote.csproj",
+      "projectPath": "C:\\Users\\jacob\\Documents\\Y2S2\\csharp\\asn2\\FirstDataBindingDemo_GrpA\\FirstDataBindingDemo_GrpA\\LocalNote.csproj",
       "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jacob\\Documents\\Y2S2\\csharp\\temp\\FirstDataBindingDemo_GrpA\\FirstDataBindingDemo_GrpA\\obj\\",
+      "outputPath": "C:\\Users\\jacob\\Documents\\Y2S2\\csharp\\asn2\\FirstDataBindingDemo_GrpA\\FirstDataBindingDemo_GrpA\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

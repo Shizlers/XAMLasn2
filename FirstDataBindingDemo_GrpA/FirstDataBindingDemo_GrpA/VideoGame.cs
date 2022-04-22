@@ -8,12 +8,12 @@ namespace LocalNote
 {
     public class VideoGame
     {
-        public string GameName { get; set; }
-       
+        public string DocName { get; set; }
+        public string Content { get; set; }
 
         public VideoGame()      //Constructor
         {
-            this.GameName = "Starcraft";
+            this.DocName = "Doc";
             
         }
 
@@ -21,13 +21,13 @@ namespace LocalNote
         {
             get
             {
-                return $"{this.GameName}"; 
+                return $"{this.DocName}"; 
             }
         }
 
         public VideoGame(string words)
         {
-            this.GameName = "Starcraft";
+            this.DocName = "Doc";
            
         }
 

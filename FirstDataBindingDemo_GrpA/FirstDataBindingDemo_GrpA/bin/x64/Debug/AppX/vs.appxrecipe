@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>f60c0e8d-2599-4bce-83cd-be2c02d17fa0</PackageIdentityName>
     <PackageIdentityPublisher>CN=Geoff</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\jacob\Documents\Y2S2\csharp\temp\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\jacob\Documents\Y2S2\csharp\asn2\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\jacob\Documents\Y2S2\csharp\temp\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\bin\x64\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\jacob\Documents\Y2S2\csharp\asn2\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\bin\x64\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>356A945F3AF11775FD0F5656B756A792615C885B99865C44888893A3C8B92D02</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>f60c0e8d-2599-4bce-83cd-be2c02d17fa0_1.0.0.0_x64__5qtdexj1vy2y2</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>f60c0e8d-2599-4bce-83cd-be2c02d17fa0_5qtdexj1vy2y2!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\jacob\Documents\Y2S2\csharp\temp\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\jacob\Documents\Y2S2\csharp\asn2\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-22T17:12:03.174</Modified>
+      <Modified>2022-04-22T17:32:40.747</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\temp\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\bin\x64\Debug\FirstDataBindingDemo_GrpA.exe">
+    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\asn2\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\bin\x64\Debug\FirstDataBindingDemo_GrpA.exe">
       <PackagePath>entrypoint\FirstDataBindingDemo_GrpA.exe</PackagePath>
-      <Modified>2022-04-22T17:12:02.521</Modified>
+      <Modified>2022-04-22T17:32:40.210</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jacob\.nuget\packages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -46,67 +46,67 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2020-12-02T08:52:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\temp\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\asn2\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2022-04-18T02:31:58.989</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\temp\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\asn2\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2022-04-18T02:31:55.852</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\temp\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\asn2\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-04-18T02:31:55.878</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\temp\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\asn2\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-04-18T02:31:55.906</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\temp\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\asn2\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-04-18T02:31:55.936</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\temp\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\asn2\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-04-18T02:31:55.965</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\temp\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\asn2\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-04-18T02:31:55.989</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\temp\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\asn2\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-04-18T02:31:56.012</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\temp\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\bin\x64\Debug\FirstDataBindingDemo_GrpA.xr.xml">
+    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\asn2\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\bin\x64\Debug\FirstDataBindingDemo_GrpA.xr.xml">
       <PackagePath>FirstDataBindingDemo_GrpA.xr.xml</PackagePath>
-      <Modified>2022-04-22T17:12:02.448</Modified>
+      <Modified>2022-04-22T17:30:17.674</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\temp\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\bin\x64\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\asn2\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-04-22T17:12:02.454</Modified>
+      <Modified>2022-04-22T17:32:40.148</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\temp\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\bin\x64\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\asn2\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-04-22T17:12:02.454</Modified>
+      <Modified>2022-04-22T17:32:40.149</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2020-12-02T06:52:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\temp\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\asn2\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <Modified>2022-04-22T17:12:02.852</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\temp\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\bin\x64\Debug\Core\FirstDataBindingDemo_GrpA.exe">
+    <AppxPackagedFile Include="C:\Users\jacob\Documents\Y2S2\csharp\asn2\FirstDataBindingDemo_GrpA\FirstDataBindingDemo_GrpA\bin\x64\Debug\Core\FirstDataBindingDemo_GrpA.exe">
       <PackagePath>FirstDataBindingDemo_GrpA.exe</PackagePath>
-      <Modified>2022-04-22T17:12:03.170</Modified>
+      <Modified>2022-04-22T17:32:40.742</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jC94YRDQp5CxTnQ4WfGuc6Ycnyr96MsHjm9q4ARkBLErLh+7jN6omav3BCH/4dAwgg27y8msyqDg+cM5VdH0lg==",
+  "dgSpecHash": "00NDdTWcFPE4szvY2j4EuNUvfs8olJJVPn9ae3DZZwDvOUUb8Mv43ciZTG3jF2i+TFK8m07qrzoF6v5mT+yh/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jacob\\Documents\\Y2S2\\csharp\\temp\\FirstDataBindingDemo_GrpA\\FirstDataBindingDemo_GrpA\\LocalNote.csproj",
+  "projectFilePath": "C:\\Users\\jacob\\Documents\\Y2S2\\csharp\\asn2\\FirstDataBindingDemo_GrpA\\FirstDataBindingDemo_GrpA\\LocalNote.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jacob\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.8-rel-28605-00\\microsoft.net.native.compiler.2.2.8-rel-28605-00.nupkg.sha512",
     "C:\\Users\\jacob\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.2.10\\microsoft.net.uwpcoreruntimesdk.2.2.10.nupkg.sha512",
